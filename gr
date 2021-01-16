@@ -1,0 +1,282 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,CT 1 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/6-tv-stb_hd_ott.m3u8
+#EXTINF:-1,CT 2 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/7-tv-stb_hd_ott.m3u8
+#EXTINF:-1,CT 24 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/150-tv-stb_hd_ott.m3u8
+#EXTINF:-1,CT sport HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/77-tv-stb_hd_ott.m3u8
+#EXTINF:-1,CT :D/art HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/301-tv-stb_hd_ott.m3u8
+#EXTINF:-1,CT 3 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1314-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/8-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova 2
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/304-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova Cinema HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/31-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova Action HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/89-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova Gold
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/305-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Prima HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/9-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Prima COOL HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/18-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Prima ZOOM HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/54-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Prima Love
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1019-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Prima MAX HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/971-tv-stb_hd_ott.m3u8
+#EXTINF:0,Prima KRIMI
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/26-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Prima Comedy Central
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/121-tv-stb_hd_ott.m3u8
+#EXTINF:-1,TV Barrandov HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/15-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Barrandov Krimi HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/106-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Kino Barrandov HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/107-tv-stb_hd_ott.m3u8
+#EXTINF:-1,RELAX
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/183-tv-stb_hd_ott.m3u8
+#EXTINF:-1,JOJ
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/13-tv-stb_hd_ott.m3u8
+#EXTINF:-1,JOJ Cinema HD 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/303-tv-stb_hd_ott.m3u8
+#EXTINF:-1,STV1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/12-tv-stb_hd_ott.m3u8
+#EXTINF:-1,HBO HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/20-tv-stb_hd_ott.m3u8
+#EXTINF:-1,HBO 2 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/322-tv-stb_hd_ott.m3u8
+#EXTINF:-1,HBO 3 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/323-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Cinemax
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/324-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Cinemax 2
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/325-tv-stb_hd_ott.m3u8
+#EXTINF:-1,CS Film
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/27-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Epic Drama HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/343-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Filmbox Extra HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/28-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Filmbox Plus
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/30-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Filmbox Premium
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/309-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Filmbox
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/29-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Filmbox family
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/104-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Film+
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/308-tv-stb_hd_ott.m3u8
+#EXTINF:-1,AMC
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1309-tv-stb_hd_ott.m3u8
+#EXTINF:-1,FilmEuropePlus
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1320-tv-stb_hd_ott.m3u8
+#EXTINF:-1,HOROR FILM
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/36-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Viasat Explore
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/47-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Viasat History
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/48-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Viasat Nature
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/120-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Discovery science
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/119-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Discovery Showcase HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/42-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Discovery
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/41-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Spektrum HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/340-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Spektrum home
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/111-tv-stb_hd_ott.m3u8
+#EXTINF:-1,MnamTV
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/113-tv-stb_hd_ott.m3u8
+#EXTINF:-1,TV Paprika
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/112-tv-stb_hd_ott.m3u8
+#EXTINF:-1,National Geographic HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/45-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nat Geo WILD HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/346-tv-stb_hd_ott.m3u8
+#EXTINF:-1,AnimalPlanet
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/51-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Fishing and Hunting
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/115-tv-stb_hd_ott.m3u8
+#EXTINF:-1,TLC
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/123-tv-stb_hd_ott.m3u8
+#EXTINF:-1,History Europe
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/117-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Food Network HD 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/124-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Jim Jam
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/100-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Disney Channel
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/90-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nickelodeon 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/91-tv-stb_hd_ott.m3u8
+#EXTINF:-1,NickJr
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/99-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Cartoon Network
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/95-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Minimax
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/92-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Jim Jam
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/97-tv-stb_hd_ott.m3u8
+#EXTINF:-1,duck.tv
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/94-tv-stb_hd_ott.m3u8
+#EXTINF:-1,LALA TV  
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/184-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Eurosport 1 HD 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/167-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Eurosport 2 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/168-tv-stb_hd_ott.m3u8
+#EXTINF:-1,ID Xtra Europe
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/39-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Sport 1 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/76-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Sport2
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/74-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Sport3
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/75-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Sport 5
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/70-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova Sport 1 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/63-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Nova Sport 2 HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/79-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Golf Channel HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/69-tv-stb_hd_ott.m3u8
+#EXTINF:-1,AutoMotorSport HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/116-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Film Europe HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/38-tv-stb_hd_ott.m3u8
+#EXTINF:-1,OCKO STAR
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/129-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Óčko
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/130-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Óčko Expres
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/138-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Retro Music TV
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/132-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Blue Hustler
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/170-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Erox HD
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/175-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Leo
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/172-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Vivid CZ
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/171-tv-stb_hd_ott.m3u8
+#EXTINF:-1,dorcel tv
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/173-tv-stb_hd_ott.m3u8
+#EXTINF:-1,super one
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/174-tv-stb_hd_ott.m3u8
+#EXTINF:-1,playboy tv 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/177-tv-stb_hd_ott.m3u8
+#EXTINF:-1,xmo
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/179-tv-stb_hd_ott.m3u8
+#EXTINF:-1,pornhubtv
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1246-tv-stb_hd_ott.m3u8
+#EXTINF:-1,history channel
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/117-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Seznam.cz TV
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/314-tv-stb_hd_ott.m3u8
+#EXTINF:-1,food network
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/124-tv-stb_hd_ott.m3u8
+#EXTINF:-1,MTV
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/131-tv-stb_hd_ott.m3u8
+#EXTINF:-1,vh1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/133-tv-stb_hd_ott.m3u8
+#EXTINF:-1,VH1 Classic
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/134-tv-stb_hd_ott.m3u8
+#EXTINF:-1,mtv dance 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/135-tv-stb_hd_ott.m3u8
+#EXTINF:-1,mtv rocks
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/136-tv-stb_hd_ott.m3u8
+#EXTINF:-1,cmusic
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/137-tv-stb_hd_ott.m3u8
+#EXTINF:-1,mezzo
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/139-tv-stb_hd_ott.m3u8
+#EXTINF:-1,letiste 
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/195-tv-stb_hd_ott.m3u8
+#EXTINF:-1,cnn
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/142-tv-stb_hd_ott.m3u8
+#EXTINF:-1,bbc world news
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/143-tv-stb_hd_ott.m3u8
+#EXTINF:-1,ta3
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/144-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Boomerang
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/145-tv-stb_hd_ott.m3u8
+#EXTINF:-1,france24
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/146-tv-stb_hd_ott.m3u8
+#EXTINF:-1,france24
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/148-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Aljazeera
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/149-tv-stb_hd_ott.m3u8
+#EXTINF:-1,tht
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/151-tv-stb_hd_ott.m3u8
+#EXTINF:-1,tv 1000 ru kino fss
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/152-tv-stb_hd_ott.m3u8
+#EXTINF:-1,Ginx Esports
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/153-tv-stb_hd_ott.m3u8
+#EXTINF:-1,1tvrus europa
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/154-tv-stb_hd_ott.m3u8
+#EXTINF:-1,rtl
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/155-tv-stb_hd_ott.m3u8
+#EXTINF:-1,rtl2
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/156-tv-stb_hd_ott.m3u8
+#EXTINF:-1,vox
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/158-tv-stb_hd_ott.m3u8
+#EXTINF:-1,rai1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/159-tv-stb_hd_ott.m3u8
+#EXTINF:-1,tve
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/160-tv-stb_hd_ott.m3u8
+#EXTINF:-1,tvp polonia
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/161-tv-stb_hd_ott.m3u8
+#EXTINF:-1,vtv1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/163-tv-stb_hd_ott.m3u8
+#EXTINF:-1,vtv3
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/164-tv-stb_hd_ott.m3u8
+#EXTINF:-1,vtc
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/165-tv-stb_hd_ott.m3u8
+#EXTINF:-1,ct1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/180-tv-stb_hd_ott.m3u8
+#EXTINF:-1,ct1
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/181-tv-stb_hd_ott.m3u8
+#EXTINF:-1,rebel
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/185-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2 Sport
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/55-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Fotbal HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/56-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Tenis
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/57-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport1 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/561-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport2 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/562-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport3 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/563-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport4 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/564-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport5 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/565-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport6 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/566-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport7 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/56-tv-stb_hd_ott.m3u8
+#EXTINF:-1,O2TV Sport8 HD
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/57-tv-stb_hd_ott.m3u8
+#EXTINF:-1,PremierSport 
+https://stc.o2tv.cz/calc/at/0fae5cee2c0de55dbedca3571a660300/1539704743794/subscr/subscription/deviceId/1190-tv-stb_hd_ott.m3u8
+#EXTINF:-1,joj family
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404501/subscr/subscription/deviceId/313-tv-stb_hd_ott.m3u8
+#EXTINF:-1,cnnprima
+https://stc.o2tv.cz/calc/at/079cf7e786f786fc272d922a6e876ae7/1574841404500/subscr/subscription/deviceId/1316-tv-stb_hd_ott.m3u8
